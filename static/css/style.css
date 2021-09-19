@@ -1,0 +1,10 @@
+
+  .body {
+    color:lightblue;
+  }
+  .jumbotron {
+    background-image: url("../images/Navelgazing.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  
